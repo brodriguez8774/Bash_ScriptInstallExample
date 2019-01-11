@@ -1,0 +1,5 @@
+
+# Do not track local environment settings.
+.venv/
+.vscode/
+.idea/
